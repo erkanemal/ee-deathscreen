@@ -1,0 +1,195 @@
+@font-face {
+	font-family: 'Hurme-Black';
+	src: url('../fonts/HurmeBlack.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Hurme-Light';
+	src: url('../fonts/HurmeLight.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+#container {
+	display: none;
+	
+}
+
+.background {
+	background: rgba(37, 0, 0, 0.274);
+	filter: blur(10px);
+	width: 100%;
+	height: 100%;
+}
+
+.text1 {
+	text-align: center;
+	font-size: 4.2vh;
+	letter-spacing: 1px;
+	position: absolute;
+	bottom: 30vh;
+	left: 50%;
+	font-family: 'Bebas Neue', cursive;
+	color: #FF5714;
+	text-shadow:
+	-1px -1px 1px #000,  
+	 1px -1px 1px #000,
+	 -1px 1px 1px #000,
+	  1px 1px 1px #000;
+	transform: translate(-50%, -50%);
+}
+
+.text2 {
+	text-align: center;
+	font-size: 1.5vh;
+	letter-spacing: 2px;
+	position: absolute;
+	bottom: 26vw;
+	left: 50%;
+	font-family: 'Bebas Neue', cursive;
+	color: rgb(0, 255, 149);
+	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.0);
+	transform: translate(-50%, -50%);
+}
+
+.revive {
+	text-align: center;
+	font-size: 2.5vh;
+	letter-spacing: 2px;
+	position: absolute;
+	bottom: 26vh;
+	left: 50%;
+	font-family: 'Sofia Sans Extra Condensed', sans-serif;
+	color: rgb(163, 163, 163);
+	text-shadow:
+	-1px -1px 1px #000,  
+	 1px -1px 1px #000,
+	 -1px 1px 1px #000,
+	  1px 1px 1px #000;
+	transform: translate(-50%, -50%);
+}
+
+.revivetime {
+	text-align: center;
+	font-size: 1vh;
+	position: absolute;
+	bottom: 26.2vh;
+	left: 84.8vh;
+	font-family: 'Sofia Sans Extra Condensed', sans-serif;
+	color: rgb(163, 163, 163);
+	text-shadow:
+	-1px -1px 1px #000,  
+	 1px -1px 1px #000,
+	 -1px 1px 1px #000,
+	  1px 1px 1px #000;
+	transform: translate(-50%, -50%);
+}
+
+.revive2 {
+	text-align: center;
+	font-size: 2.5vh;
+	position: absolute;
+	bottom: 22vh;
+	left: 50%;
+	font-family: 'Sofia Sans Extra Condensed', sans-serif;
+	color: rgb(163, 163, 163);
+	text-shadow:
+	-1px -1px 1px #000,  
+	 1px -1px 1px #000,
+	 -1px 1px 1px #000,
+	  1px 1px 1px #000;
+	transform: translate(-50%, -50%);
+}
+
+.revivetime2 {
+	text-align: center;
+	font-size: 1vh;
+	position: absolute;
+	bottom: 22.2vh;
+	left: 103.9vh;
+	font-family: 'Sofia Sans Extra Condensed', sans-serif;
+	color: rgb(163, 163, 163);
+	text-shadow:
+	-1px -1px 1px #000,  
+	 1px -1px 1px #000,
+	 -1px 1px 1px #000,
+	  1px 1px 1px #000;
+	transform: translate(-50%, -50%);
+}
+
+.text3 {
+	text-align: center;
+	font-size: 1.5vw;
+	position: absolute;
+	bottom: 20vh;
+	left: 50%;
+	font-family: 'Sofia Sans Extra Condensed', sans-serif;
+	color: rgb(163, 163, 163);
+	transform: translate(-50%, -50%);
+}
+
+
+
+
+
+/* border: 1px solid rgb(63, 249, 165);
+border-radius: 50%; */
+
+.red {
+	color: #ff1414;
+}
+
+.gray {
+	color: #ffffff;
+}
+
+.green {
+	color: #66ff00;
+	text-shadow: 0 0 4px #00FF9C;
+}
+
+.orange {
+	color: #ff9100;
+	text-shadow: 0 0 4px #ffbb00;
+}
+
+
+
+.blue {
+	color: #14a1ff;
+}
+
+
+.int1 {
+	position: fixed;
+	bottom: 4.0vw;
+	right: 8.0vw;
+}
+
+.int2 {
+	position: fixed;
+	bottom: 4.0vw;
+	right: 7.0vw;
+}
+
+.int3 {
+	position: fixed;
+	bottom: 4.0vw;
+	right: 6.0vw;
+}
+
+.int4 {
+	position: fixed;
+	bottom: 4.0vw;
+	right: 7.0vw;
+	position: absolute;
+	width: 1vw;
+	height: 6vw;
+
+	background: rgb(255, 255, 255);
+}
+
