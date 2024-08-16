@@ -13,8 +13,8 @@ Clone the Repository:
 > git clone https://github.com/erkanemal/ee-deathscreen.git
 
 Install Dependencies:
-> Vmenu
 > npm install
+(and Vmenu)
 
 
 
