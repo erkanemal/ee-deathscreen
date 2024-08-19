@@ -10,11 +10,10 @@ SOON
 Interested in using this death screen on your own server? Here’s how to get started:
 
 Clone the Repository:
-> git clone https://github.com/erkanemal/ee-deathscreen.git
+> git clone https://github.com/TomGrobbe/vMenu.git
 
 Install Dependencies:
-> npm install
-(and Vmenu)
+> 
 
 
 
