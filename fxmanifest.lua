@@ -6,7 +6,7 @@ lua54 'yes'
 
 
 author 'erkanpl'
-description 'Deathscreen system for AHRP'
+description 'Deathscreen for Vmenu based Servers'
 version '1.0'
 scriptname 'ee-deathscreen'
 
