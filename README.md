@@ -1,7 +1,9 @@
 🌟Welcome to the EE-Deathscreen repository! This project is a customizable death screen designed specifically for FiveM servers that utilize the Vmenu framework. It's aimed at enhancing the player's in-game experience by providing a clean and immersive death screen.
 
 🔍 Preview
-Check out a preview of the death screen in action: SOON
+Check out a preview of the death screen in action:
+![image](https://github.com/user-attachments/assets/261b652c-4983-4b91-a496-25c67e3e8960)
+
 
 
 🚀 Getting Started
